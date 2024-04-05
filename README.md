@@ -23,6 +23,17 @@ or
 
 ### Mostly automatic installation
 
+#### React Native 0.60.X and above
+
+1. Add this line to your podfile.lock in the iOS folder of your project
+```ruby 
+pod 'RNStoryShare', :path => '../node_modules/react-native-story-share/ios'
+```
+
+2. Run pod install
+
+#### Below React Native 0.60.X
+
 `$ react-native link react-native-story-share`
 
 ### Manual installation
