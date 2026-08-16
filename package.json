@@ -14,7 +14,7 @@
     "share"
   ],
   "author": "Johannes Sorg <johannes@sorg.me>",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "peerDependencies": {
     "react-native": "^0.41.2"
   },
